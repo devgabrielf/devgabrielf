@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Front-end web developmente with ReactJS
+- 🌱 I’m currently learning Android development with Kotlin
 - 📚 I’m studying Computer Information Systems at Pontifical Catholic University of Minas Gerais (PUC Minas)
 - 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-ferreira5/)
 
 ### Skills
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
