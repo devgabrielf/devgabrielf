@@ -4,6 +4,15 @@
 - 📚 I’m studying Computer Information Systems at Pontifical Catholic University of Minas Gerais (PUC Minas)
 - 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-ferreira5/)
 
+---
+
+<div align="center">
+  <a href="https://github.com/devgabrielf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielf&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+---
+
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
