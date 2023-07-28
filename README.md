@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a Front-end Developer working with ReactJS
+- 🌱 I’m a Frontend Developer working with ReactJS, VanillaJS and Svelte
 - 📚 I’m studying Computer Information Systems at Pontifical Catholic University of Minas Gerais (PUC Minas)
 - 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-ferreira5/)
 
@@ -21,4 +21,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=react)
+![Svelte]([https://img.shields.io/badge/-Next-000000?style=flat&logo=react](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte))
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
