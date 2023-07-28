@@ -20,6 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=next.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
