@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m a Frontend Developer working with ReactJS, VanillaJS and Svelte
-- 📚 I’m studying Computer Information Systems at Pontifical Catholic University of Minas Gerais (PUC Minas)
+- 🌱 I’m a Frontend Developer working with ReactJS, VanillaJS and Svelte.
+- 📚 I’m studying Computer Information Systems at Pontifical Catholic University of Minas Gerais (PUC Minas).
 - 📫 You can reach me at  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-ferreira5/)
 
 ---
