@@ -21,5 +21,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=react)
-![Svelte]([https://img.shields.io/badge/-Next-000000?style=flat&logo=react](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte))
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
